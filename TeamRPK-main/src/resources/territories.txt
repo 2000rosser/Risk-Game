@@ -1,0 +1,125 @@
+Ireland
+348 179 50 50
+
+Iceland
+372 97 40 40
+
+Northern Europe
+443 195 50 50
+
+Western Europe
+376 256 50 50
+
+Southern Europe
+445 249 50 50
+
+Scandinavia
+442 103 50 50
+
+Ukraine
+525 138 50 50
+
+Middle East
+544 301 50 50
+
+Afghanistan
+601 209 50 50
+
+Ural
+617 113 50 50
+
+Siberia
+669 70 50 50
+
+China
+701 248 50 50
+
+India
+657 296 50 50
+
+Siam
+735 333 50 50
+
+Mongolia
+742 193 50 50
+
+Irkutsk
+741 138 30 30
+
+Yakutsk
+751 53 30 30
+
+Kamchatka
+821 56 50 50
+
+Japan
+846 184 50 50
+
+Egypt
+480 341 30 30
+
+North Africa
+398 362 50 50
+
+East Africa
+534 407 40 40
+
+Congo
+484 450 40 40
+
+South Africa
+485 513 50 50
+
+Madagascar
+576 527 50 50
+
+Indonesia
+736 425 50 50
+
+New Guinea
+830 393 50 50
+
+Western Australia
+785 515 50 50
+
+Eastern Australia
+843 497 40 40
+
+Brazil
+261 385 50 50
+
+Peru
+190 409 30 30
+
+Argentina
+207 484 50 50
+
+Venezuela
+201 340 40 40
+
+Alaska
+29 73 50 50
+
+North West Territory
+118 76 50 50
+
+Alberta
+99 123 50 50
+
+Ontario
+171 135 40 40
+
+Quebec
+233 135 40 40
+
+Western United States
+103 193 50 50
+
+Eastern United States
+191 204 50 50
+
+Central America
+123 274 40 40
+
+Greenland
+294 46 50 50

@@ -1,0 +1,126 @@
+
+Ireland
+Iceland,Scandinavia,Northern Europe,Western Europe
+
+Iceland
+Ireland,Scandinavia,Greenland
+
+Northern Europe
+Western Europe,Southern Europe,Ukraine,Scandinavia,Ireland
+
+Western Europe
+Northern Europe,Southern Europe,Ireland,North Africa
+
+Southern Europe
+Western Europe,Northern Europe,Ukraine,Middle East,Egypt,North Africa
+
+Scandinavia
+Iceland,Ireland,Northern Europe,Ukraine
+
+Ukraine
+Scandinavia,Northern Europe,Southern Europe,Middle East,Afghanistan,Ural
+
+Middle East
+Southern Europe,Egypt,East Africa,India,Afghanistan,Ukraine
+
+Afghanistan
+Ukraine,Middle East,India,China,Ural
+
+Ural
+Ukraine,Afghanistan,China,Siberia
+
+Siberia
+Ural,China,Mongolia,Irkutsk,Yakutsk
+
+China
+Ural,Afghanistan,India,Siam,Mongolia,Siberia
+
+India
+Middle East,Afghanistan,China,Siam
+
+Siam
+India,Indonesia,China,New Guinea
+
+Mongolia
+Irkutsk,Siberia,China
+
+Irkutsk
+Siberia,Mongolia,Kamchatka,Yakutsk
+
+Yakutsk
+Siberia,Irkutsk,Kamchatka
+
+Kamchatka
+Yakutsk,Irkutsk,Japan,Alaska,Mongolia
+
+Japan
+Kamchatka
+
+Egypt
+Southern Europe,North Africa,East Africa,Middle East
+
+North Africa
+Western Europe,Brazil,Congo,East Africa,Egypt,Southern Europe
+
+East Africa
+Egypt,North Africa,Congo,South Africa,Madagascar,Middle East
+
+Congo
+North Africa,South Africa,East Africa
+
+South Africa
+Congo,Madagascar,East Africa
+
+Madagascar
+South Africa,East Africa
+
+Indonesia
+Western Australia,New Guinea,Siam
+
+New Guinea
+Siam,Indonesia,Eastern Australia
+
+Western Australia
+Eastern Australia,Indonesia,New Guinea
+
+Eastern Australia
+Western Australia,Indonesia,New Guinea
+
+Brazil
+Venezuela,Peru,Argentina,North Africa
+
+Peru
+Venezuela,Argentina,Brazil
+
+Argentina
+Peru,Brazil
+
+Venezuela
+Brazil,Peru,Central America
+
+Alaska
+North West Territory,Alberta,Kamchatka
+
+North West Territory
+Alaska,Alberta,Ontario,Greenland
+
+Alberta
+Alaska,North West Territory,Ontario,Western United States
+
+Ontario
+Alberta,North West Territory,Greenland,Quebec,Western United States,Eastern United States
+
+Quebec
+Ontario,Greenland,Eastern United States
+
+Western United States
+Alberta,Ontario,Eastern United States,Central America
+
+Eastern United States
+Western United States,Ontario,Quebec,Central America
+
+Central America
+Western United States,Eastern United States,Venezuela
+
+Greenland
+North West Territory,Ontario,Quebec,Iceland
